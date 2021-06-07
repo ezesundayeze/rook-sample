@@ -1,0 +1,5 @@
+#surefire_0
+#Mon Jun 07 09:02:59 WAT 2021
+basedir=/Users/ezesundayeze/Developments/rookout/deployment-examples/java-maven/maven-api/my-app
+user.dir=/Users/ezesundayeze/Developments/rookout/deployment-examples/java-maven/maven-api/my-app
+localRepository=/Users/ezesundayeze/.m2/repository

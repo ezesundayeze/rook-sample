@@ -1,0 +1,9 @@
+# Created at 2021-06-07T00:40:37.313
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/Users/ezesundayeze/Developments/rookout/deployment-examples/java-maven/maven-api/rook.jar -DROOKOUT_TOKEN=0f940bfe1f9ce8391fa2e5663554c147a65d2dc72293c2465a7363decfaf4e5d
+
+# Created at 2021-06-07T00:40:37.618
+OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+
+# Created at 2021-06-07T00:40:37.675
+[Rookout] Unsupported JVM. Rookout supports Java 7, 8 on Oracle Java or Oracle OpenJDK
+
